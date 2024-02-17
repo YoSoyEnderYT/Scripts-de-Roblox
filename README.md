@@ -12,4 +12,4 @@ Enlace: https://linktr.ee/YoSoyEnderYT
 
 # Enlaces de Codigos
 
-1. Cambiar Ajustes de un Bloque Mediante un Script:
+1. Cambiar Ajustes de un Bloque Mediante un Script: https://github.com/YoSoyEnderYT/Scripts-de-Roblox/commit/3742897fed66c5ce95cc80a311c4570f4bf6daf6

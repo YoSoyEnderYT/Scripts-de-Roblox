@@ -1,0 +1,17 @@
+CAMBIAR AJUSTES DE UN BLOQUE MEDIANTE UN SCRIPT
+
+Script:
+
+while true do -- La Entrada
+wite(5)
+	script.Parent.Transparency = 0.5 -- Cambialo a lo que quieras cambiar
+	script.Parent.Color = 33, 154, 165 -- Cambialo a lo que quieras cambiar
+	script.Parent.Size = {1,0} {1,0} -- Cambialo a lo que quieras cambiar
+	script.Parent.Reflectance = 1 -- Cambialo a lo que quieras cambiar
+end
+
+
+
+Video: https://youtu.be/-g0ParsvBG4?si=Sx9DTGX0zT6D5a7W
+Redes Sociales: https://linktr.ee/YoSoyEnderYT
+Canal: https://www.youtube.com/@YoSoyEnderYTOficial
